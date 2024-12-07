@@ -4,7 +4,7 @@ Upscale was mostly done using [4X HDCube3](https://openmodeldb.info/models/4x-HD
 
 Step 1. Drag & drop "Game.dsb" and "Textures.cnt" into the "Data" folder in your game directory.
 
-Step 2. Download Rayman Control Panel and use it to Synchronize textures.
+Step 2. Download [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro/releases) and use it to Synchronize textures.
 
 Step 3. Enjoy!
 
